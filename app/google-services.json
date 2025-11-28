@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961211866070",
+    "project_id": "flyxcoin-9db50",
+    "storage_bucket": "flyxcoin-9db50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961211866070:android:63b723fa5a6d3d9be1e277",
+        "android_client_info": {
+          "package_name": "com.example.flyxcoin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Kn1i8noY80gWAcjpG98T6gyG4nl2EV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

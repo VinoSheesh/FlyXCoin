@@ -1,0 +1,17 @@
+<resources>
+    <style name="Theme.FlyXCoin" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- Warna background -->
+        <item name="windowSplashScreenBackground">#0F1419</item>
+
+        <!-- Icon di tengah -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/enzyme</item>
+
+        <!-- Warna lingkaran di belakang icon -->
+        <item name="windowSplashScreenIconBackgroundColor">#6C63FF</item>
+
+        <!-- Theme setelah splash selesai -->
+        <item name="postSplashScreenTheme">@style/Theme.FlyXCoin</item>
+    </style>
+</resources>
